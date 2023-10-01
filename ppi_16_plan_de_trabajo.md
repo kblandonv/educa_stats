@@ -10,7 +10,7 @@ El objetivo de este plan de trabajo es definir las actividades a realizar en nue
 - Descripción: Carlos será responsable de extraer datos de las fuentes pertinentes y realizar la limpieza inicial de los datos. Esto incluye la eliminación de valores nulos, la estandarización de formatos y la identificación de datos inconsistentes.
 
 ### Análisis Exploratorio de Datos (EDA)
-- **Responsable:** [Nombre del responsable]
+- **Responsable:** Carlos Castaño
 - Descripción: El análisis exploratorio de datos será realizado por [Nombre del responsable]. Este paso implica la generación de visualizaciones y estadísticas descriptivas para comprender mejor los datos y detectar patrones iniciales.
 
 ## Actividades informe 04
