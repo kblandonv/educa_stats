@@ -3,7 +3,7 @@
 ## Objetivo
 El objetivo de este plan de trabajo es definir las actividades a realizar en nuestro proyecto y asignar responsabilidades.
 
-## Actividades
+## Actividades informe 03
 
 ### Extracción y Limpieza de Datos
 - **Responsable:** Carlos Castaño
@@ -13,11 +13,19 @@ El objetivo de este plan de trabajo es definir las actividades a realizar en nue
 - **Responsable:** [Nombre del responsable]
 - Descripción: El análisis exploratorio de datos será realizado por [Nombre del responsable]. Este paso implica la generación de visualizaciones y estadísticas descriptivas para comprender mejor los datos y detectar patrones iniciales.
 
+## Actividades informe 04
+### Fechas de Entrega 
+-  10:30 a. m. del lunes, 9 de octubre
+
+## Actividades informe 05
+
+## Actividades informe 06
+
+## Actividades informe 07
+
 ### Documentación
 - **Responsable:** todos
 - Descripción: La documentación del proyecto, incluyendo la creación de informes técnicos y manuales de usuario, estará a cargo de [Nombre del responsable].
 
-## Fechas de Entrega
-- Todas las actividades deben completarse según el cronograma acordado.
 
 Este plan de trabajo proporciona una estructura para organizar nuestras tareas y asignar responsabilidades clave. A medida que avanzamos en el proyecto, revisaremos y actualizaremos este plan según sea necesario.
