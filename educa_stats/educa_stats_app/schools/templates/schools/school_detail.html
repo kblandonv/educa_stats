@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Detalles del Colegio</title>
+</head>
+<body>
+    <h1>Detalles del Colegio</h1>
+    <h2>{{ school.name }}</h2>
+    <p>Dirección: {{ school.address }}</p>
+    <p>Teléfono: {{ school.phone }}</p>
+    <p>Puntuación en Pruebas: {{ school.test_score }}</p>
+    <p>Descripción: {{ school.description }}</p>
+    <a href="{% url 'school_list' %}">Volver a la lista de colegios</a>
+</body>
+</html>
