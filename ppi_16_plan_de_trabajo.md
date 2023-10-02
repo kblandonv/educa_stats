@@ -13,7 +13,7 @@ El objetivo de este plan de trabajo es definir las actividades a realizar en nue
 - **Responsable:** Carlos Castaño
 - Descripción: El análisis exploratorio de datos será realizado por [Nombre del responsable]. Este paso implica la generación de visualizaciones y estadísticas descriptivas para comprender mejor los datos y detectar patrones iniciales.
 
-### Creación de Mocap
+### Creación de mockup
 - **Responsable:** Kevin Parra
 - Descripción: Crear el mocap con el diseño de las vistas de la aplicación web.
 
@@ -22,12 +22,25 @@ El objetivo de este plan de trabajo es definir las actividades a realizar en nue
 
 ## Actividades informe 04
 
+### Creación del proyecto en react
+- **Responsable:** Kevin Parra
+- Descripción: Crear el entorno de trabajo para el frontend usando react
+
+### Creación Pantalla de inicio de la web
+- **Responsable:** Kevin Parra
 
 ## Actividades informe 05
 
+### Añadir filtros de busqueda en la interfaz de usuario
+- **Responsable:** Kevin Parra
+
 ## Actividades informe 06
+### Creación Pantalla de pantalla de resultados
+- **Responsable:** Kevin Parra
 
 ## Actividades informe 07
+### Pulir la interfaz grafica
+- **Responsable:** Kevin Parra
 
 ### Documentación
 - **Responsable:** todos
