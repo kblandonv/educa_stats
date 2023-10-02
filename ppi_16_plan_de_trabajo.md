@@ -46,7 +46,7 @@ El objetivo de este plan de trabajo es definir las actividades a realizar en nue
 - **Responsable:** Kevin Blandón
 - Descripción: Implementar las librerias requeridas para el correcto uso de la aplicación desde el backend
 
- ### Implementación de las librerias en el backend de la aplicación para su uso
+ ### Implementación del manejo de roles
 - **Responsable:** Carlos Castaño
 - Descripción: Código para manejo de roles, admin y usuario
 
@@ -59,6 +59,9 @@ El objetivo de este plan de trabajo es definir las actividades a realizar en nue
 ## Actividades informe 06
 ### Creación Pantalla de pantalla de resultados
 - **Responsable:** Kevin Parra
+
+### Creación Panel de administrador
+- **Responsable:** Carlos Castaño
 
 - - ### Fechas de Entrega 
 -  10:30 a. m. del lunes, 20 de noviembre
