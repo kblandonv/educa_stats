@@ -27,7 +27,7 @@ El objetivo de este plan de trabajo es definir las actividades a realizar en nue
 - Descripción: Crear la aplicación en django
 
 ### Creación de la base de datos de la app
-- **Responsable:** Kevin Blandón
+- **Responsable:** Carlos Castaño
 - Descripción: Crear las bases de datos necesarias para el correcto uso de la aplicación
 
 ### Creación del proyecto en react
@@ -46,6 +46,10 @@ El objetivo de este plan de trabajo es definir las actividades a realizar en nue
 - **Responsable:** Kevin Blandón
 - Descripción: Implementar las librerias requeridas para el correcto uso de la aplicación desde el backend
 
+ ### Implementación de las librerias en el backend de la aplicación para su uso
+- **Responsable:** Carlos Castaño
+- Descripción: Código para manejo de roles, admin y usuario
+
 ### Añadir filtros de busqueda en la interfaz de usuario
 - **Responsable:** Kevin Parra
 
@@ -63,7 +67,7 @@ El objetivo de este plan de trabajo es definir las actividades a realizar en nue
 
 
 ### Dockerizar el proyecto
-- **Responsable:** Kevin Blandón
+- **Responsable:** Kevin Blandón y Carlos Castaño
 - Descripción: Dockerizar el proyecto completamente para su posterior despliegue y puesta en producción.
 
 ### Pulir la interfaz grafica
