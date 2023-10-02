@@ -15,7 +15,7 @@ El objetivo de este plan de trabajo es definir las actividades a realizar en nue
 
 ### Creación de mockup
 - **Responsable:** Kevin Parra
-- Descripción: Crear el mocap con el diseño de las vistas de la aplicación web.
+- Descripción: Crear el mockup con el diseño de las vistas de la aplicación web.
 
 - ### Fechas de Entrega 
 -  10:30 a. m. del lunes, 9 de octubre
@@ -29,18 +29,30 @@ El objetivo de este plan de trabajo es definir las actividades a realizar en nue
 ### Creación Pantalla de inicio de la web
 - **Responsable:** Kevin Parra
 
+- - ### Fechas de Entrega 
+-  10:30 a. m. del lunes, 23 de octubre
+
 ## Actividades informe 05
 
 ### Añadir filtros de busqueda en la interfaz de usuario
 - **Responsable:** Kevin Parra
 
+- - ### Fechas de Entrega 
+-  10:30 a. m. del lunes, 30 de octubre
+
 ## Actividades informe 06
 ### Creación Pantalla de pantalla de resultados
 - **Responsable:** Kevin Parra
 
+- - ### Fechas de Entrega 
+-  10:30 a. m. del lunes, 20 de noviembre
+
 ## Actividades informe 07
 ### Pulir la interfaz grafica
 - **Responsable:** Kevin Parra
+
+- - ### Fechas de Entrega 
+-  10:30 a. m. del lunes, 27 de noviembre
 
 ### Documentación
 - **Responsable:** todos
